@@ -1,0 +1,27 @@
+.img {
+    align-self:center;
+}
+
+.container {
+    left:0;
+    right:0;
+    margin-left: auto;
+    margin-right:auto;
+    align-items:center;
+    width: 100%;
+}
+
+.card {
+    left:0;
+    right:0;
+    margin-left: auto;
+    margin-right:auto;
+    align-self:center;
+    width: 50%;
+    align-items:center;
+}
+
+.button {
+    margin-bottom: 15px;
+    max-width: 50%;
+}

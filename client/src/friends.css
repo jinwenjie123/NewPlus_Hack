@@ -1,0 +1,33 @@
+.card1 {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    background-color:#f7fefc;
+    border-radius: 2px;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right:20px;
+}
+
+.container {
+    width: 100%;
+}
+
+.image {
+    margin-left: 5%;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.distance {
+    text-align: center;
+}
+
+.name {
+    text-align: center;
+}
+h4 {
+    font-size: 16px;
+}
